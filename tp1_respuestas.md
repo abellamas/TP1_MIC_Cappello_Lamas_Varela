@@ -2,7 +2,7 @@
 
 **Artículo analizado:** Scherer, R. C., Shinwari, D., De Witt, K. J., Zhang, C., Kucinschi, B. R. y Afjeh, A. A. (2002). *Intraglottal pressure distributions for a symmetric and oblique glottis with a uniform duct (L)*. J. Acoust. Soc. Am., 112(4), 1253–1256. DOI 10.1121/1.1504849.
 
-> Nota: el artículo es una *carta al editor* de 4 páginas, por lo que muchos elementos (hipótesis, marco teórico, validez) no están explicitados y se infieren del texto. Cuando es una inferencia nuestra, se indica.
+> Nota: el artículo es un artículo breve de investigación (categoría *Letter* de JASA, de 4 páginas, con revisión por pares), por lo que muchos elementos (hipótesis, marco teórico, validez) no están explicitados y se infieren del texto. Cuando es una inferencia nuestra, se indica.
 
 ---
 
@@ -36,7 +36,7 @@ Están expresados con claridad razonable (el resumen es preciso), pero de forma 
 4. Dinámica de fluidos aplicada: ecuación de Bernoulli, separación de flujo por gradientes adversos de presión, asimetría del chorro supraglótico (Cherdron et al., 1978; Tsui y Wang, 1995), número de Reynolds.
 5. Modelado físico (modelo M5 a escala 7,5:1) y modelado computacional (ecuaciones de Navier–Stokes, FLUENT).
 
-**(a) ¿Completo?** Parcialmente. Es suficiente para una carta y está bien anclado en el estudio previo, pero es breve: pocas referencias, sin revisión de modelos de fonación (p. ej. teorías de vibración de cuerdas vocales) ni de otros estudios de presión intraglótica en glotis oblicuas. Depende mucho de trabajos propios.
+**(a) ¿Completo?** Parcialmente. Es suficiente para un artículo breve y está bien anclado en el estudio previo, pero es breve: pocas referencias, sin revisión de modelos de fonación (p. ej. teorías de vibración de cuerdas vocales) ni de otros estudios de presión intraglótica en glotis oblicuas. Depende mucho de trabajos propios.
 
 **(b) ¿Relacionado con el problema?** Sí. Cada elemento se usa luego: la oblicuidad como variable motivada por la literatura clínica; Bernoulli para explicar el aumento del 18 % del diámetro en la toma 6; la asimetría del chorro para explicar las diferencias cerca de la salida.
 
@@ -128,7 +128,7 @@ El artículo **no enuncia hipótesis formales**. Las hipótesis implícitas son:
 
 ## 7. Recolección de los datos cuantitativos
 
-**(a) ¿Confiable?** Razonablemente. Las mediciones de caudal tienen una incertidumbre de ±2 %, y la repetibilidad de las diferencias entre lados es alta: desviaciones estándar de 0,45 % y 0,37 % (sobre las cuatro presiones transglóticas) para las diferencias del 21,4 % y 16,1 %; las diferencias en la toma 12 tienen DE 0,8 %. No se informa la incertidumbre del transductor de presión en esta carta (se remite al estudio previo).
+**(a) ¿Confiable?** Razonablemente. Las mediciones de caudal tienen una incertidumbre de ±2 %, y la repetibilidad de las diferencias entre lados es alta: desviaciones estándar de 0,45 % y 0,37 % (sobre las cuatro presiones transglóticas) para las diferencias del 21,4 % y 16,1 %; las diferencias en la toma 12 tienen DE 0,8 %. No se informa la incertidumbre del transductor de presión en este artículo (se remite al estudio previo).
 
 **(b) Técnica de confiabilidad.** Repetición del experimento en cuatro condiciones de presión y consistencia entre ellas (media y desviación estándar); dos conjuntos empíricos por presión transglótica en el caso simétrico (lado de flujo y no-flujo); inversión de cuerdas vocales y de dirección del flujo. Los métodos de medición y las exactitudes se declaran "idénticos al estudio anterior" (Scherer et al., 2001).
 
