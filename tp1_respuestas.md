@@ -169,7 +169,7 @@ El artículo **no enuncia hipótesis formales**. Las hipótesis implícitas son:
 
 **Artículo analizado:** Horáček, J., Laukkanen, A.-M. y Šidlof, P. (2007). *Estimation of impact stress using an aeroelastic model of voice production*. Logopedics Phoniatrics Vocology, 32, 185–192. DOI 10.1080/14015430600628039.
 
-> Nota: es un artículo original completo (8 páginas) con resumen, introducción, método, resultados, discusión y conclusiones. Igual que en la Parte A, hipótesis y preguntas no están enunciadas formalmente y se infieren del texto; se indica cuando es inferencia nuestra. En el texto extraído del PDF se pierden los guiones de rango (por ejemplo "100–400 Hz" aparece como "100400 Hz"); el resumen dice "23 kPa", que por el contexto y las Figs. 4 y 7 (máximos de unos 2–4 kPa) corresponde a **2–3 kPa**. Conviene verificarlo contra el PDF original.
+> Nota: es un artículo original completo (8 páginas) con resumen, introducción, método, resultados, discusión y conclusiones. Igual que en la Parte A, hipótesis y preguntas no están enunciadas formalmente y se infieren del texto; se indica cuando es inferencia nuestra. El valor de esfuerzo de impacto máximo para habla normal que da el resumen es **2–3 kPa** (verificado en el PDF original).
 
 ### 1. Planteamiento del problema cuantitativo
 
