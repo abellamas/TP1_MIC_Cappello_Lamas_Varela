@@ -114,7 +114,7 @@ El artículo **no enuncia hipótesis formales**. Las hipótesis implícitas son:
 - **(f) Invalidación externa:**
   - Modelo rígido, a escala 7,5:1, sin falsas cuerdas vocales, sin movimiento de las cuerdas vocales, flujo estacionario (no pulsátil), un solo diámetro mínimo (0,04 cm) y un solo ángulo de oblicuidad (20°), en un conducto rectangular. Se controla parcialmente por similitud geométrica y por trabajar en rangos de presión fisiológicos, pero la extrapolación a la glotis humana en vibración no está demostrada.
 
-**Diseño no experimental:** no aplica. La simulación CFD no es un diseño no experimental (no observa un fenómeno sin intervenir), sino un complemento computacional del experimento: se simuló una sola condición (oblicua, 5 cm H₂O) y los autores indican que las demás fueron similares.
+**Diseño no experimental:** no aplica. La simulación CFD no es un diseño no experimental (no observa un fenómeno sin intervenir), sino un complemento computacional del experimento: se simuló la glotis oblicua; la Fig. 3 muestra el caso de 5 cm H₂O y los autores indican que las demás condiciones fueron similares (la nota 2 compara presiones simuladas y medidas para distintas presiones transglóticas).
 
 ---
 
